@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ertolv
-- 👀 I’m interested in Cyber and AI
+- 👀 I’m a very curious person.
 - 🌱 I’m currently learning NextJs
 
 <!---
