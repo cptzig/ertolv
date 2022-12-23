@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ertolv
-- 👀 I’m a very curious person.
-- 🌱 I’m currently learning NextJs
+- 👀 I love cyber and AI
 
 <!---
 ertolv/ertolv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
